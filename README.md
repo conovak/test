@@ -14,6 +14,6 @@
   </ul> 
   <p> so there are plenty of reasons to learn! </p> 
   <a href="https://bootcampspot.com/login"> Things you can do when you can code</a>
-<img alt = "penguin". src= "penguin.jpg">
+
 
   
