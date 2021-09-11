@@ -1,3 +1,4 @@
+
 <h1>Corey's test page</h1>
 <h2>Lots of mistakes</h2>
 <h3>When you are learning to code</h3>
@@ -13,7 +14,5 @@
   <li> AND MAKE <STRONG> MORE MONEY </STRONG> </li> 
   </ul> 
   <p> so there are plenty of reasons to learn! </p> 
-  <a href="https://bootcampspot.com/login"> Things you can do when you can code</a>
-
-
+ <a href="https://www.thrillist.com/eat/denver/best-pizza-in-denver"> Treat Yourself to some <strong> pizza </strong> </a>
   
